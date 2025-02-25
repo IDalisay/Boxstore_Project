@@ -11,4 +11,4 @@ Greyed-out columns represent columns that were moved to other tables. Bright ora
 I created and updated an entity relationship diagram of the database according to new changes. This ERD includes primary keys, foreign keys, and specific SQL data types for every attribute. The relationships between tables are described with cardinalities to further improve readability.
 
 # SQL Script
-This was the SQL script used to transform the database according to the changes made during the normalization process. It also includes various simple and complex JOIN practices and VIEWS required by the assignment.
+This was the SQL script excecuted in DBeaver used to transform the MariaDB database according to the changes made during the normalization process. It also includes various simple and complex JOIN practices and VIEWS required by the assignment.
