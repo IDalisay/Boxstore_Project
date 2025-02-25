@@ -1225,7 +1225,7 @@ SELECT oi.oi_id, oi.order_id, oi.item_id, oi.oi_qty
      , oi.usermod, oi.datemod, oi.active
 FROM orders__item oi;
 
--- JOIN  HEEEEEEEEEEEEEELLP
+-- JOIN
 SELECT oi.order_id
      , o.order_id, o.order_no, o.order_date, o.p_id_cus, o.p_id_emp
      , oi.item_id
